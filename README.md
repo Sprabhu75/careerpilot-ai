@@ -162,3 +162,8 @@ git push -u origin main
 
 ## License
 Apache-2.0
+
+## Web Access
+You can access this AI via this link 
+https://careerpilot-ai-4-1p6y.onrender.com
+
