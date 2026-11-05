@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI",
+  "description": "Evidence-grounded career preparation assistant for Indian students, freshers, and early-career professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
